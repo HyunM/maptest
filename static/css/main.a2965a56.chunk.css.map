@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,kBACF,CACA,WACE,UAAY,CACZ,cACF","file":"main.a2965a56.chunk.css","sourcesContent":["path {\r\n  pointer-events: all;\r\n}\r\npath:hover {\r\n  opacity: 0.5;\r\n  cursor: pointer;\r\n}\r\n"]}
